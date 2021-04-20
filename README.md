@@ -34,7 +34,19 @@ Currently the App runs just 1 thread as github put rate-limit on multiple pull. 
 1. Can easily be scaled. 
 2. Can parse URL and csv file both
 3. Logging, errors are logged too. Verbose execution
+4. Containerized app. Just pass URL as ENV variable
+To pull container:
+```
+docker pull docker.io/karanacad/docker_source
+```
+To run:
+```
+docker run -e "URL=<url>" karanacad/docker_source
+```
+For ex:
+```
+docker run -e "https://gist.githubusercontent.com/karanb21/0cf32a514efeb098cfe0a4df054b8d66/raw/eeeb263bd276dbfd0f9cb66fac5e69a6c3297df2/test.txt" karanacad/docker_source
+```
 
 # Remaing work:
-1. Containerize app
 2. Running this as minicube job!

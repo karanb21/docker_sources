@@ -6,6 +6,7 @@ Install python3 and requirements on your machine:
 ```
 pip3 install -r ./requirement.txt 
 ```
+```
 python3 run.py <url>
 ```
 or

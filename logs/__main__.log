@@ -1,0 +1,114 @@
+2021-04-20 11:04:19;INFO;[error][could not parse file from remote url]
+2021-04-20 11:04:51;INFO;[error][could not parse file from remote url]
+2021-04-20 11:08:47;INFO;[error][could not parse file from remote url]
+2021-04-20 11:49:54;INFO;[error][could not parse file from remote url]
+2021-04-20 11:54:11;INFO;[error][could not parse file from remote url]
+2021-04-20 11:55:07;INFO;[error][could not parse file from remote url]
+2021-04-20 12:03:14;INFO;[error][could not parse file from remote url]
+2021-04-20 12:04:10;INFO;[error][could not parse file from remote url]
+2021-04-20 12:04:15;INFO;[error][could not parse file from remote url]
+2021-04-20 12:04:33;INFO;[error][could not parse file from remote url]
+2021-04-20 12:05:14;INFO;[error][could not parse file from remote url]
+2021-04-20 12:05:35;INFO;[error][could not parse file from remote url]
+2021-04-20 12:10:54;INFO;[error][could not parse file from remote url]
+2021-04-20 12:11:33;INFO;[error][could not parse file from remote url]
+2021-04-20 12:11:44;INFO;[error][could not parse file from remote url]
+2021-04-20 12:12:02;INFO;[error][could not parse file from remote url]
+2021-04-20 12:12:13;INFO;
+[STARTING SESSION](2021-04-20 12:12:13.719542)
+2021-04-20 12:12:13;INFO;[parsed input file](total entries found: 2)
+2021-04-20 12:12:13;INFO;[starting worker threads](max threads: 1)
+2021-04-20 12:12:13;INFO;	[error](could not clone repo)
+		repo: h:t
+		error: (GitCommandError(['git', 'clone', '-v', 'h', '.analysis/55ca7895-7abe-452e-89e4-0566dd3d8289'], 128, b"fatal: repository 'h' does not exist\n"),)
+2021-04-20 12:12:13;INFO;	[error](could not clone repo)
+		repo: h:t
+		error: (GitCommandError(['git', 'clone', '-v', 'h', '.analysis/2ca0ba85-d2b6-4d45-8074-7302e33df1a8'], 128, b"fatal: repository 'h' does not exist\n"),)
+2021-04-20 12:12:13;INFO;[SESSION COMPLETE](2021-04-20 12:12:13.840473)
+2021-04-20 12:12:13;INFO;	[summary]
+	time taken: 0:00:00.120931
+	docker files found: 0
+	from statements found: 0
+
+2021-04-20 12:13:00;INFO;
+[STARTING SESSION](2021-04-20 12:13:00.929969)
+2021-04-20 12:13:00;INFO;[parsed input file](total entries found: 2)
+2021-04-20 12:13:00;INFO;[starting worker threads](max threads: 1)
+2021-04-20 12:13:04;INFO;	[analyzed repo](https://github.com/app-sre/container-images.git:c260deaf135fc0efaab365ea234a5b86b3ead404)
+		from statements found: 5
+		docker files found: 2
+2021-04-20 12:13:04;INFO;	[analyzed repo](https://github.com/app-sre/qontract-reconcile.git:30af65af14a2dce962df923446afff24dd8f123e)
+		from statements found: 1
+		docker files found: 1
+2021-04-20 12:13:07;INFO;[SESSION COMPLETE](2021-04-20 12:13:07.451760)
+2021-04-20 12:13:07;INFO;	[summary]
+	time taken: 0:00:06.521791
+	docker files found: 3
+	from statements found: 6
+
+2021-04-20 12:13:23;INFO;
+[STARTING SESSION](2021-04-20 12:13:23.342755)
+2021-04-20 12:13:23;INFO;[parsed input file](total entries found: 2)
+2021-04-20 12:13:23;INFO;[starting worker threads](max threads: 1)
+2021-04-20 12:13:26;INFO;	[analyzed repo](https://github.com/app-sre/container-images.git:c260deaf135fc0efaab365ea234a5b86b3ead404)
+		from statements found: 5
+		docker files found: 2
+2021-04-20 12:13:26;INFO;	[analyzed repo](https://github.com/app-sre/qontract-reconcile.git:30af65af14a2dce962df923446afff24dd8f123e)
+		from statements found: 1
+		docker files found: 1
+2021-04-20 12:13:29;INFO;[SESSION COMPLETE](2021-04-20 12:13:29.917851)
+2021-04-20 12:13:29;INFO;	[summary]
+	time taken: 0:00:06.575096
+	docker files found: 3
+	from statements found: 6
+
+2021-04-20 12:17:08;INFO;[error][could not parse file from remote url]
+2021-04-20 12:17:18;INFO;
+[STARTING SESSION](2021-04-20 12:17:18.280816)
+2021-04-20 12:17:18;INFO;[parsed input file](total entries found: 2)
+2021-04-20 12:17:18;INFO;[starting worker threads](max threads: 1)
+2021-04-20 12:17:21;INFO;	[analyzed repo](https://github.com/app-sre/container-images.git:c260deaf135fc0efaab365ea234a5b86b3ead404)
+		from statements found: 5
+		docker files found: 2
+2021-04-20 12:17:21;INFO;	[analyzed repo](https://github.com/app-sre/qontract-reconcile.git:30af65af14a2dce962df923446afff24dd8f123e)
+		from statements found: 1
+		docker files found: 1
+2021-04-20 12:17:24;INFO;[SESSION COMPLETE](2021-04-20 12:17:24.542078)
+2021-04-20 12:17:24;INFO;	[summary]
+	time taken: 0:00:06.261262
+	docker files found: 3
+	from statements found: 6
+
+2021-04-20 12:18:12;INFO;[error][could not parse file from remote url]
+2021-04-20 12:18:49;INFO;
+[STARTING SESSION](2021-04-20 12:18:49.997840)
+2021-04-20 12:18:49;INFO;[parsed input file](total entries found: 2)
+2021-04-20 12:18:49;INFO;[starting worker threads](max threads: 1)
+2021-04-20 12:18:52;INFO;	[analyzed repo](https://github.com/app-sre/container-images.git:c260deaf135fc0efaab365ea234a5b86b3ead404)
+		from statements found: 5
+		docker files found: 2
+2021-04-20 12:18:53;INFO;	[analyzed repo](https://github.com/app-sre/qontract-reconcile.git:30af65af14a2dce962df923446afff24dd8f123e)
+		from statements found: 1
+		docker files found: 1
+2021-04-20 12:18:56;INFO;[SESSION COMPLETE](2021-04-20 12:18:56.431553)
+2021-04-20 12:18:56;INFO;	[summary]
+	time taken: 0:00:06.433713
+	docker files found: 3
+	from statements found: 6
+
+2021-04-20 12:30:26;INFO;
+[STARTING SESSION](2021-04-20 12:30:26.360520)
+2021-04-20 12:30:26;INFO;[parsed input file](total entries found: 2)
+2021-04-20 12:30:26;INFO;[starting worker threads](max threads: 1)
+2021-04-20 12:30:29;INFO;	[analyzed repo](https://github.com/app-sre/container-images.git:c260deaf135fc0efaab365ea234a5b86b3ead404)
+		from statements found: 5
+		docker files found: 2
+2021-04-20 12:30:30;INFO;	[analyzed repo](https://github.com/app-sre/qontract-reconcile.git:30af65af14a2dce962df923446afff24dd8f123e)
+		from statements found: 1
+		docker files found: 1
+2021-04-20 12:30:33;INFO;[SESSION COMPLETE](2021-04-20 12:30:33.436159)
+2021-04-20 12:30:33;INFO;	[summary]
+	time taken: 0:00:07.075639
+	docker files found: 3
+	from statements found: 6
+

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3.
 from queue import Queue
 from threading import Thread
 import sys

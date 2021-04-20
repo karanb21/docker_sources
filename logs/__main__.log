@@ -112,3 +112,19 @@
 	docker files found: 3
 	from statements found: 6
 
+2021-04-20 14:25:54;INFO;
+[STARTING SESSION](2021-04-20 14:25:54.827852)
+2021-04-20 14:25:54;INFO;[parsed input file](total entries found: 2)
+2021-04-20 14:25:54;INFO;[starting worker threads](max threads: 1)
+2021-04-20 14:25:57;INFO;	[analyzed repo](https://github.com/app-sre/container-images.git:c260deaf135fc0efaab365ea234a5b86b3ead404)
+		from statements found: 5
+		docker files found: 2
+2021-04-20 14:25:58;INFO;	[analyzed repo](https://github.com/app-sre/qontract-reconcile.git:30af65af14a2dce962df923446afff24dd8f123e)
+		from statements found: 1
+		docker files found: 1
+2021-04-20 14:26:01;INFO;[SESSION COMPLETE](2021-04-20 14:26:01.524964)
+2021-04-20 14:26:01;INFO;	[summary]
+	time taken: 0:00:06.697112
+	docker files found: 3
+	from statements found: 6
+

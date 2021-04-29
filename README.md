@@ -50,4 +50,4 @@ docker run -e "https://gist.githubusercontent.com/karanb21/0cf32a514efeb098cfe0a
 ```
 
 # Remaing work:
-1. Running this as minicube job!
+1. Running this as minikube job!
